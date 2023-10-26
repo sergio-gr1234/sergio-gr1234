@@ -2,18 +2,26 @@
 
 ## Iniciamos markdown....
 
+**DATOS BÁSICOS:**
+
+         Nacido en Santa Cruz de Tenerife en Julio de 1978
+
+         Mas de 22 años en el munco de la Arquitectura
+
+
+
 
 **FORMACIÓN:**
 
-[x] Diplomado en Arquitectura Técnicaça
+       [x] Diplomado en Arquitectura Técnicaça
 
-[x] Grado en Ingeniería de Edificación
+       [x] Grado en Ingeniería de Edificación
 
-[x] Máster en Seguridad Industrial
+       [x] Máster en Seguridad Industrial
 
-[x] Máster en Calculo de Estructuras 
+       [x] Máster en Calculo de Estructuras 
 
-[ ] Master Profesorado .... en curso....
+       [ ] Master Profesorado .... en curso....
 
 
 
