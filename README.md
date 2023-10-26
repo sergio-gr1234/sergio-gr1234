@@ -9,6 +9,14 @@ Master Profesorado 23-24
 
 **NEGRITAS VERSION MARKDOWN
 
+
+|  COLUMNA 1  |  COLUMNA 2  |  COLUMNA 3 |
+|  :--------- |  :-------:  |  --------: |
+|  PRUEBA     |  PRUEBA 2   |  PRUEBA 3  |
+
+
+
+
 <!--UN COMENTARIO-->
 
 
