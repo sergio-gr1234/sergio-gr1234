@@ -4,7 +4,8 @@
 
 
 **FORMACIÓN:**
-Diplomado en Arquitectura Técnicaça
+
+[x] Diplomado en Arquitectura Técnicaça
 
 [x] Grado en Ingeniería de Edificación
 
