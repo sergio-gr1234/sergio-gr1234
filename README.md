@@ -1,7 +1,21 @@
 ### Hi there 👋
 
 ## Iniciamos markdown....
-Master Profesorado 23-24
+
+
+**FORMACIÓN:**
+Diplomado en Arquitectura Técnicaça
+
+[x] Grado en Ingeniería de Edificación
+
+[x] Máster en Seguridad Industrial
+
+[x] Máster en Calculo de Estructuras 
+
+[ ] Master Profesorado .... en curso....
+
+
+
 
 ![ULL](https://media.revistaad.es/photos/60c229a62d9a1d1684422eaa/master/w_1600,c_limit/231004.jpg)
 
