@@ -6,7 +6,7 @@
 
          Nacido en Santa Cruz de Tenerife en Julio de 1978
 
-         Mas de 22 años en el munco de la Arquitectura
+         Mas de 22 años en el mundo de la Arquitectura
 
 
 
